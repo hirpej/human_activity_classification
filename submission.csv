@@ -7,7 +7,7 @@ Laying
 Standing
 Laying
 Laying
-Walking_Downstair
+Walking_Upstair
 Walking_Upstair
 Standing
 Walking
@@ -54,11 +54,11 @@ Sitting
 Walking
 Walking_Downstair
 Laying
-Walking
+Walking_Upstair
 Sitting
 Standing
 Walking_Upstair
-Walking_Downstair
+Walking_Upstair
 Laying
 Walking
 Walking_Downstair
@@ -86,20 +86,20 @@ Walking_Downstair
 Walking_Upstair
 Walking_Upstair
 Walking
-Walking_Downstair
+Walking_Upstair
 Standing
 Sitting
 Walking_Downstair
 Standing
 Sitting
 Sitting
-Walking
+Walking_Upstair
 Sitting
 Walking
 Walking_Upstair
 Standing
 Walking
-Standing
+Sitting
 Standing
 Walking
 Sitting
@@ -138,7 +138,7 @@ Laying
 Walking_Downstair
 Walking_Downstair
 Sitting
-Walking_Downstair
+Walking_Upstair
 Walking_Downstair
 Walking
 Standing
@@ -279,7 +279,7 @@ Walking
 Sitting
 Walking
 Standing
-Walking
+Walking_Upstair
 Laying
 Laying
 Walking
@@ -293,8 +293,8 @@ Walking_Downstair
 Laying
 Walking
 Walking_Upstair
-Walking_Downstair
 Walking_Downstair
+Walking_Upstair
 Walking_Downstair
 Laying
 Standing
@@ -403,8 +403,8 @@ Laying
 Walking
 Walking_Upstair
 Laying
-Sitting
 Standing
+Standing
 Laying
 Standing
 Sitting
@@ -432,7 +432,7 @@ Walking_Upstair
 Standing
 Walking_Upstair
 Laying
-Sitting
+Standing
 Laying
 Walking
 Standing
@@ -441,8 +441,8 @@ Walking
 Walking
 Sitting
 Walking_Downstair
-Walking
 Walking
+Walking_Upstair
 Walking
 Walking_Upstair
 Walking
@@ -482,7 +482,7 @@ Laying
 Walking_Downstair
 Walking_Upstair
 Standing
-Walking_Downstair
+Walking
 Walking_Upstair
 Standing
 Walking_Upstair
@@ -532,7 +532,7 @@ Walking
 Walking
 Standing
 Standing
-Walking_Upstair
+Walking
 Sitting
 Walking
 Walking_Upstair
@@ -594,7 +594,7 @@ Laying
 Standing
 Walking
 Walking_Upstair
-Sitting
+Standing
 Walking
 Standing
 Sitting
@@ -609,7 +609,7 @@ Sitting
 Sitting
 Sitting
 Walking_Downstair
-Walking
+Walking_Upstair
 Sitting
 Standing
 Walking
@@ -669,7 +669,7 @@ Standing
 Laying
 Walking
 Walking_Upstair
-Standing
+Sitting
 Sitting
 Laying
 Laying
@@ -710,7 +710,7 @@ Standing
 Walking_Upstair
 Laying
 Standing
-Standing
+Sitting
 Laying
 Walking_Downstair
 Walking
@@ -727,7 +727,7 @@ Laying
 Sitting
 Walking_Downstair
 Walking_Upstair
-Sitting
+Standing
 Sitting
 Laying
 Walking_Downstair
@@ -743,7 +743,7 @@ Sitting
 Walking_Upstair
 Laying
 Sitting
-Walking
+Walking_Downstair
 Walking
 Sitting
 Walking
@@ -758,7 +758,7 @@ Standing
 Sitting
 Walking_Downstair
 Walking
-Walking
+Walking_Upstair
 Standing
 Walking
 Walking_Downstair
@@ -787,7 +787,7 @@ Laying
 Standing
 Sitting
 Sitting
-Standing
+Sitting
 Walking_Downstair
 Standing
 Walking_Upstair
@@ -821,7 +821,7 @@ Standing
 Walking
 Sitting
 Walking_Upstair
-Sitting
+Standing
 Walking_Downstair
 Standing
 Standing
@@ -873,7 +873,7 @@ Standing
 Sitting
 Standing
 Laying
-Walking_Upstair
+Walking
 Standing
 Sitting
 Walking_Upstair
@@ -960,7 +960,7 @@ Standing
 Walking_Downstair
 Walking_Downstair
 Sitting
-Sitting
+Standing
 Laying
 Walking_Upstair
 Walking
@@ -972,7 +972,7 @@ Walking_Downstair
 Laying
 Sitting
 Walking_Downstair
-Walking
+Walking_Upstair
 Walking
 Walking_Downstair
 Walking_Downstair
@@ -1000,7 +1000,7 @@ Walking
 Sitting
 Standing
 Walking_Upstair
-Sitting
+Standing
 Walking
 Sitting
 Walking_Upstair
@@ -1013,7 +1013,7 @@ Laying
 Walking
 Sitting
 Walking_Upstair
-Walking
+Walking_Upstair
 Walking
 Walking_Upstair
 Laying
@@ -1052,7 +1052,7 @@ Laying
 Sitting
 Standing
 Walking_Upstair
-Standing
+Sitting
 Walking_Downstair
 Sitting
 Standing
@@ -1083,7 +1083,7 @@ Sitting
 Walking
 Sitting
 Walking_Upstair
-Walking_Upstair
+Walking
 Walking
 Sitting
 Walking
@@ -1101,7 +1101,7 @@ Sitting
 Standing
 Standing
 Laying
-Sitting
+Standing
 Walking
 Walking_Downstair
 Walking_Upstair
@@ -1139,7 +1139,7 @@ Standing
 Standing
 Walking_Downstair
 Walking_Upstair
-Walking
+Walking_Upstair
 Standing
 Sitting
 Walking_Downstair
@@ -1150,7 +1150,7 @@ Laying
 Sitting
 Laying
 Walking_Downstair
-Walking
+Walking_Upstair
 Walking_Upstair
 Walking_Upstair
 Sitting
@@ -1222,7 +1222,7 @@ Walking_Upstair
 Sitting
 Laying
 Standing
-Standing
+Sitting
 Laying
 Sitting
 Standing
@@ -1237,7 +1237,7 @@ Laying
 Walking_Upstair
 Laying
 Laying
-Sitting
+Standing
 Walking
 Walking_Downstair
 Walking
@@ -1251,7 +1251,7 @@ Walking_Upstair
 Sitting
 Sitting
 Walking_Upstair
-Walking
+Walking_Upstair
 Walking_Downstair
 Walking
 Walking
@@ -1290,8 +1290,8 @@ Laying
 Laying
 Walking
 Walking
-Walking_Upstair
 Walking
+Walking
 Walking_Downstair
 Walking
 Walking_Upstair
@@ -1332,8 +1332,8 @@ Sitting
 Walking_Downstair
 Standing
 Sitting
-Standing
 Sitting
+Sitting
 Walking
 Walking_Upstair
 Laying
@@ -1354,7 +1354,7 @@ Sitting
 Standing
 Standing
 Walking_Downstair
-Walking_Upstair
+Walking
 Standing
 Standing
 Walking_Upstair
@@ -1402,8 +1402,8 @@ Walking
 Sitting
 Laying
 Standing
-Sitting
 Sitting
+Standing
 Sitting
 Sitting
 Standing
@@ -1444,7 +1444,7 @@ Walking
 Laying
 Walking_Upstair
 Standing
-Sitting
+Standing
 Walking
 Laying
 Walking_Downstair
@@ -1452,7 +1452,7 @@ Walking_Upstair
 Walking_Upstair
 Laying
 Laying
-Standing
+Sitting
 Walking
 Walking
 Walking
@@ -1470,10 +1470,10 @@ Laying
 Standing
 Walking_Upstair
 Walking
-Sitting
+Standing
 Laying
 Laying
-Walking
+Walking_Upstair
 Walking
 Standing
 Standing
@@ -1527,7 +1527,7 @@ Walking_Downstair
 Sitting
 Walking_Downstair
 Walking_Upstair
-Walking_Downstair
+Walking_Upstair
 Sitting
 Walking
 Walking_Upstair
@@ -1599,7 +1599,7 @@ Walking_Upstair
 Laying
 Walking_Downstair
 Walking
-Walking
+Walking_Downstair
 Walking
 Walking_Upstair
 Walking
@@ -1629,7 +1629,7 @@ Standing
 Walking
 Walking_Downstair
 Laying
-Walking_Upstair
+Walking_Downstair
 Walking_Upstair
 Sitting
 Walking_Downstair
@@ -1667,7 +1667,7 @@ Laying
 Laying
 Standing
 Laying
-Standing
+Sitting
 Walking
 Laying
 Walking
@@ -1695,7 +1695,7 @@ Laying
 Walking_Downstair
 Walking
 Standing
-Walking_Upstair
+Walking
 Sitting
 Standing
 Sitting
@@ -1705,7 +1705,7 @@ Sitting
 Walking_Downstair
 Standing
 Walking
-Walking
+Walking_Upstair
 Walking_Upstair
 Standing
 Walking
@@ -1834,8 +1834,8 @@ Walking_Upstair
 Standing
 Sitting
 Walking_Downstair
-Walking
 Walking_Downstair
+Walking_Downstair
 Laying
 Laying
 Walking
@@ -1980,8 +1980,8 @@ Walking_Downstair
 Walking_Upstair
 Standing
 Walking_Upstair
-Walking_Downstair
 Walking
+Walking
 Walking_Downstair
 Sitting
 Laying
@@ -2007,8 +2007,8 @@ Laying
 Standing
 Sitting
 Laying
-Walking_Upstair
 Walking
+Walking
 Sitting
 Standing
 Standing
@@ -2042,8 +2042,8 @@ Walking_Upstair
 Laying
 Sitting
 Walking_Downstair
-Sitting
 Standing
+Standing
 Walking
 Walking_Downstair
 Standing
@@ -2079,7 +2079,7 @@ Standing
 Walking_Upstair
 Sitting
 Laying
-Standing
+Sitting
 Walking_Downstair
 Walking_Upstair
 Laying
@@ -2139,7 +2139,7 @@ Walking
 Walking_Downstair
 Standing
 Standing
-Sitting
+Standing
 Walking_Upstair
 Sitting
 Walking_Downstair
@@ -2172,7 +2172,7 @@ Walking_Downstair
 Standing
 Walking_Downstair
 Walking
-Walking_Upstair
+Walking
 Laying
 Sitting
 Standing
@@ -2206,7 +2206,7 @@ Sitting
 Laying
 Walking_Upstair
 Laying
-Walking
+Walking_Downstair
 Sitting
 Laying
 Walking_Upstair
@@ -2229,7 +2229,7 @@ Laying
 Sitting
 Walking
 Walking_Upstair
-Walking
+Walking_Upstair
 Walking
 Walking
 Walking_Downstair
@@ -2346,7 +2346,7 @@ Walking_Downstair
 Standing
 Walking_Upstair
 Standing
-Sitting
+Standing
 Laying
 Sitting
 Laying
@@ -2439,7 +2439,7 @@ Walking_Upstair
 Standing
 Laying
 Sitting
-Sitting
+Standing
 Laying
 Walking_Downstair
 Standing
@@ -2581,7 +2581,7 @@ Sitting
 Standing
 Sitting
 Laying
-Standing
+Sitting
 Walking_Upstair
 Laying
 Walking
@@ -2603,7 +2603,7 @@ Walking
 Walking
 Walking_Downstair
 Walking_Upstair
-Walking_Upstair
+Walking
 Walking_Upstair
 Walking_Upstair
 Sitting
@@ -2696,7 +2696,7 @@ Standing
 Walking_Upstair
 Walking_Upstair
 Standing
-Standing
+Sitting
 Laying
 Walking_Upstair
 Laying
@@ -2779,8 +2779,8 @@ Walking_Upstair
 Walking_Upstair
 Standing
 Walking
-Sitting
 Sitting
+Standing
 Walking_Downstair
 Walking_Downstair
 Walking_Downstair
@@ -2823,8 +2823,8 @@ Walking_Downstair
 Laying
 Walking_Upstair
 Sitting
-Walking_Upstair
 Walking
+Walking
 Sitting
 Walking
 Walking
@@ -2845,7 +2845,7 @@ Laying
 Laying
 Standing
 Standing
-Sitting
+Standing
 Laying
 Standing
 Laying
@@ -2867,7 +2867,7 @@ Sitting
 Walking_Downstair
 Walking
 Walking_Downstair
-Sitting
+Standing
 Walking
 Walking_Upstair
 Standing
@@ -2913,7 +2913,7 @@ Laying
 Laying
 Walking_Upstair
 Laying
-Sitting
+Standing
 Sitting
 Walking
 Sitting
